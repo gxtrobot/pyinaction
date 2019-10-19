@@ -4,4 +4,4 @@
 
 # 目录
 
-- Lesson1 [Python 开发环境准备](./lesson1/lesson1.md)
+- Lesson1 [Python 开发环境准备](./lesson1/lesson1.md) [视频](https://www.bilibili.com/video/av71750337)   [PDF](./lesson1/lesson1.pdf)

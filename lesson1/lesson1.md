@@ -49,8 +49,8 @@ theme:
 
 创建一个程序目录 `c:\dev\pyinaction`
 
-代码: 存为helloworld.py
-```
+代码: 存为 helloworld.py
+```python
 print("Hello World")
 ```
 
@@ -59,7 +59,7 @@ print("Hello World")
 打开cmd程序, 进入程序目录
 
 运行命令:
-```
+```shell
 python helloworld.py
 ```
 
@@ -74,11 +74,11 @@ python helloworld.py
 
 - python虚拟环境的创建
 
-运行命令 `python -m venv venv`
+   运行命令 `python -m venv venv`{.python}
 
 - 激活虚拟环境
 
-运行命令 `venv\Scripts\activate.bat `
+   运行命令 `venv\Scripts\activate.bat `
 
 - 运行helloworld程序
 
@@ -86,15 +86,15 @@ python helloworld.py
 
 - pip 安装一个包, requests
 
-运行命令 `pip install requests `
+   运行命令 `pip install requests `
 
 - 列出当前环境安装的包
 
-运行命令 `pip list `
+   运行命令 `pip list `
 
 - douban源的使用, pip.ini文件
 
-放在 `C:\Users\<username>\pip\pip.ini`
+   放在 `C:\Users\<username>\pip\pip.ini`
 
 pip.ini 内容
 ```
@@ -106,4 +106,4 @@ index-url = https://pypi.doubanio.com/simple
 # 课后练习
 
 - cmd命令行使用python 解释器, 执行简单算术运算, 例如 1+2
-- 修改helloworld.py, 打印其他内容, 使用vscode运行
+- 修改 helloworld.py, 打印其他内容, 使用vscode运行
