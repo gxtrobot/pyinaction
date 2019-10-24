@@ -107,3 +107,13 @@ index-url = https://pypi.doubanio.com/simple
 
 - cmd命令行使用python 解释器, 执行简单算术运算, 例如 1+2
 - 修改 helloworld.py, 打印其他内容, 使用vscode运行
+
+# 问题
+
+- powershell 激活 虚拟环境失败, 提示没有权限?
+
+   因为PowerShell默认不允许执行*.ps1脚本文件，所以首先需要开启权限。
+
+   解决方法: 以管理员身份启动PowerShell，并执行`Set-ExecutionPolicy RemoteSigned`
+
+   具体可以看 https://blog.csdn.net/yannanxiu/article/details/78703888
