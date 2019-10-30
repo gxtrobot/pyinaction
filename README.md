@@ -8,4 +8,4 @@
 
 - Lesson1 [Python 开发环境准备](./lesson1/lesson1.md) [PDF](./lesson1/lesson1.pdf)
 - Lesson2 [基本数据类型与操作符](./lesson2/lesson2.md) [PDF](./lesson2/lesson2.pdf)
-- Lesson3 [容器数据类型, 写第一个程序](./lesson3/lesson3.md) [PDF](./lesson3/lesson3pdf)
+- Lesson3 [容器数据类型, 写第一个程序](./lesson3/lesson3.md) [PDF](./lesson3/lesson3.pdf)
