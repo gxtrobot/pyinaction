@@ -16,3 +16,4 @@ QQ群: 941894005
 - Lesson3 [容器数据类型, 写第一个程序](./lesson3/lesson3.md) [PDF](./lesson3/lesson3.pdf)
 - Lesson4 [条件判断和循环控制](./lesson4/lesson4.md) [PDF](./lesson4/lesson4.pdf)
 - Lesson5 [分支控制和函数初步](./lesson5/lesson5.md) [PDF](./lesson5/lesson5.pdf)
+- Lesson6 [函数的进阶](./lesson6/lesson6.md) [PDF](./lesson6/lesson6.pdf)
