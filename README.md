@@ -18,3 +18,4 @@ QQ群: 941894005
 - Lesson5 [分支控制和函数初步](./lesson5/lesson5.md) [PDF](./lesson5/lesson5.pdf)
 - Lesson6 [函数的进阶](./lesson6/lesson6.md) [PDF](./lesson6/lesson6.pdf)
 - Lesson7 [模块, 包和命令行输入](./lesson7/lesson7.md) [PDF](./lesson7/lesson7.pdf)
+- Lesson8 [异常处理, 读写文件](./lesson8/lesson8.md) [PDF](./lesson8/lesson8.pdf)
