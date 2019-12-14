@@ -79,6 +79,8 @@ sally_class = ClassRoom('五二班')
 mike_class = jack_class
 jack_class is sally_class
 jack_class is mike_class
+print(mike_class)
+print(sally_class)
 isinstance(jack_class, ClassRoom)
 isinstance(jack_class, object)
 isinstance(sally_class, object)
@@ -88,6 +90,12 @@ id(mike_class), id(jack_class), id(sally_class)
 
 
 # 写一个小程序
+扩展scores.txt为以下格式, 包含学号, 姓名, 成绩 数据如下
+```
+1,王小明,100
+2,李思思,90
+3,刘畅,88
+```
 reporting_scores_class.py
 基于第8课的reporting_scores.py 使用类和对象的概念改写程序, 创建班级类(ClassRoom), 课程类(Lesson), 功能保持不变
 
