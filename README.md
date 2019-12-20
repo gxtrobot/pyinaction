@@ -20,3 +20,4 @@ QQ群: 941894005
 - Lesson7 [模块, 包和命令行输入](./lesson7/lesson7.md) [PDF](./lesson7/lesson7.pdf)
 - Lesson8 [异常处理, 读写文件](./lesson8/lesson8.md) [PDF](./lesson8/lesson8.pdf)
 - Lesson9 [类和对象](./lesson9/lesson9.md) [PDF](./lesson9/lesson9.pdf)
+- Lesson10 [如何进一步学习](./lesson10/lesson10.md) [PDF](./lesson10/lesson10.pdf)
