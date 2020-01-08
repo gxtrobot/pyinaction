@@ -187,7 +187,7 @@ print(sys.argv[1:])
 nums = sys.argv[1:]
 total = 0
 for i in nums:
-    total = total + i
+    total = total + int(i)
 print('total=', total)
 
 
